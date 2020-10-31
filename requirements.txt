@@ -3,4 +3,4 @@ numpy
 awscli
 urllib3
 tqdm
-opencv-python
+opencv-python==3.4.2.16
